@@ -43,7 +43,8 @@ def main():
 
     ## test the classifier for problem 2. 
     # NOTE: Please comment this block out if you don't need a test for the second classifier. 
-
+    print("\nThe test inputs:")
+    print(x_test_text)
     # this function should accept a list of N lists, with each internal list contains two strings
     # It should return a numpy array of size [N, F2]
     x_test2 = extract_awesome_features(x_test_text)

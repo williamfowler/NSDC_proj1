@@ -1,0 +1,4 @@
+# start of requirements.txt
+gensim
+nltk
+# end of requirements.txt
